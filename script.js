@@ -8,7 +8,7 @@ const piString = "3,141592653589793238462643383279502884197169399375105820974944
 
 // Colores para cada dígito según tu solicitud
 const digitColors = {
-  "0": "green",          // el cero
+  "0": "white",          // el cero
   "1": "yellow",         // 1
   "2": "blue",           // 2
   "3": "red",            // 3
