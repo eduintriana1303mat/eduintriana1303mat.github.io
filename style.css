@@ -58,6 +58,6 @@ button {
 
 #piResult {
   word-wrap: break-word;
-  text-align: left;
+  text-align: center;
   font-size: 28px;
 }
