@@ -4,11 +4,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; font-size: 18px
+  height: 100vh;
 }
 
 .container {
-  background: white;
+  background: gray;
   padding: 30px;
   border-radius: 22px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.2);
@@ -18,19 +18,19 @@ body {
 
 h1 {
   color: #333;
-  margin-bottom: 40px;font-size: 30px
+  margin-bottom: 40px;
 }
 
 input[type="number"] {
   padding: 8px;
-  width: 60%;
+  width: 80%;
   margin: 10px 0;
-  border-radius: 8px;
-  border: 1px solid #ccc;font-size: 20px; margin-left: 34px; margin-right: 34px
+  border-radius: 6px;
+  border: 1px solid #ccc;
 }
 
 .buttons {
-  margin: 10px 0;
+  margin: 15px 0;
 }
 
 button {
@@ -39,7 +39,7 @@ button {
   border-radius: 6px;
   border: none;
   cursor: pointer;
-  font-weight: bold; 
+  font-weight: bold;
 }
 
 #startBtn {
@@ -53,11 +53,11 @@ button {
 }
 
 .result {
-  margin-top: 20px;margin-left: 34px; margin-right: 34px
+  margin-top: 20px;
 }
 
 #piResult {
   word-wrap: break-word;
   text-align: left;
-  font-size: 24px;
+  font-size: 18px;
 }
